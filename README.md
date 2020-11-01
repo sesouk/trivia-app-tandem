@@ -5,6 +5,8 @@
 * Started: 10/28/2020
 * Submitted: 11/01/2020
 
+Live Site Demo Can be Viewed [Here](https://trivia-app-tandem.netlify.app/)
+
 ## Getting Started
 1. Clone the repositiory
 2. cd into the directory
