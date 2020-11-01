@@ -1,5 +1,6 @@
 # Trivia App - Tandem
-> Purpose: Coding Challenge for Tandem's Software Engineering Apprenticeship | October 2020
+> Purpose: Coding Challenge for Tandem's Software 
+Engineering Apprenticeship | October 2020
 Developed by Kevin Tran
 Started: 10/28/2020
 Submitted: 11/01/2020
